@@ -1,5 +1,3 @@
-## Hi. I am Shivank.
-
 <!--
 **shivanksharma/shivanksharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi! Welcome to my GitHub home.
+
+My name is Shivank Sharma and I am a Data Scientist. At present, I am working with Expedia Group to bring the world closer together with the power of Data and Technology. I am also pursuing my executive Masters in Data Science & Engineering from BITS, Pilani.
+
+In the past, I have been part of teams using analytics to empower US Phamaceutical Firms deliver medicines for life-threatening conditions and Global Investment Banks to deliver quality service to investors.
